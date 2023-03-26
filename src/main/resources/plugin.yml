@@ -1,0 +1,5 @@
+name: EquipmentRepair
+version: '${project.version}'
+main: me.fengming.equipmentrepair.EquipmentRepair
+authors: [FengMing3093]
+description: Repair Your Equipment
